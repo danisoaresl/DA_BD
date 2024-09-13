@@ -1,2 +1,2 @@
-# DA_BD
-individual database exercise #womakerscode
+# desafio_banco_de_dados
+#womakerscode #semana7 #banco_de_dados
